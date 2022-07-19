@@ -1,4 +1,4 @@
-### Lucas Acuña
+# Lucas Acuña
 
 <!--
 **ToaLukas01/ToaLukas01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-# Who am I ?
+### Who am I ?
 I am a Young Argentine, with a taste for programming and looking to develop professionally in it, current graduate of Henrry's Bootcamp in Full-Stack Developer.
 
 I have aspirations to work outside my country, to be able to travel and see the world.
