@@ -30,8 +30,9 @@ I was a student of Information Systems Engineering until the 2nd year of the deg
 
 I have experience in sales and customer service since I worked in a shopping business
 
-###My knowledge:
-- Full-stack development.
+### My knowledge:
+- Full-stack development. ![full stack developer](https://user-images.githubusercontent.com/98349145/179822114-a8ff1fe0-2379-4d66-8203-e4c0770e6fe3.jpg)
+
 - Back-end development.
 - Front end development.
 - Node.js.
