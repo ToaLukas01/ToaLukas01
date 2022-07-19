@@ -34,12 +34,20 @@ I have experience in sales and customer service since I worked in a shopping bus
 - Full-stack development. 
 - Back-end development.
 - Front end development.
-- Node.js.
-- SQL.
-- React.js.
-- Redux.js.
-- HTML
-- Python(basic).
+- Javascript. ![Unofficial_JavaScript_logo_2 svg](https://user-images.githubusercontent.com/98349145/179826454-108e4024-218f-4c31-9fcd-05257e7f3495.png)
+
+- Node.js. ![Node js logo](https://user-images.githubusercontent.com/98349145/179826601-c3ea5cbe-82a0-4db5-99c2-6af7cae6b2e1.png)
+
+- SQL. ![SQL logo](https://user-images.githubusercontent.com/98349145/179826216-b0788f75-6968-4752-9356-d80c36c4028a.png)
+
+- React.js.![1200px-React svg](https://user-images.githubusercontent.com/98349145/179826252-1d9b95ea-1413-433a-ac3a-a043a996ad90.png)
+
+- Redux.js.![redux logo](https://user-images.githubusercontent.com/98349145/179826233-d12f16d9-c426-480a-b1f6-e4b3a17de41b.png)
+
+- HTML. ![HTML logo](https://user-images.githubusercontent.com/98349145/179826480-92a575e4-7749-4109-ba57-f3a485b14a4b.png)
+
+- Python(basic). ![2048px-Python-logo-notext svg](https://user-images.githubusercontent.com/98349145/179826706-27ce936a-dd18-4946-9982-240442dc629c.png)
+
 - System analysis.
 - Agile methodologies.
 - Visual Studio Code.
