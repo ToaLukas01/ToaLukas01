@@ -1,4 +1,4 @@
-### Hi there 👋
+### Lucas Acuña
 
 <!--
 **ToaLukas01/ToaLukas01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,8 +31,7 @@ I was a student of Information Systems Engineering until the 2nd year of the deg
 I have experience in sales and customer service since I worked in a shopping business
 
 ### My knowledge:
-- Full-stack development. ![full stack developer](https://user-images.githubusercontent.com/98349145/179822114-a8ff1fe0-2379-4d66-8203-e4c0770e6fe3.jpg)
-
+- Full-stack development. 
 - Back-end development.
 - Front end development.
 - Node.js.
@@ -43,3 +42,13 @@ I have experience in sales and customer service since I worked in a shopping bus
 - Python(basic).
 - System analysis.
 - Agile methodologies.
+
+### My proyects:
+
+### Concerteck
+
+Concerteck was developed within the framework of the SoyHenry bootcamp. It is an E-Commerce that was developed with the aim of providing a simple and effective service with which buying a ticket is a simple experience for the user. In the development of it we work 8 people, who each contribute their unique skills to achieve the final objectives.
+![captura del home concertek](https://user-images.githubusercontent.com/98349145/179823206-c5a2dcbb-a9a9-4fa9-aa12-10841190f05b.png)
+![Detal](https://user-images.githubusercontent.com/98349145/179823234-a7275bba-bdec-495f-894b-d67aedacea92.png)
+
+
