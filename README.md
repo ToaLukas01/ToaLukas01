@@ -42,6 +42,7 @@ I have experience in sales and customer service since I worked in a shopping bus
 - Python(basic).
 - System analysis.
 - Agile methodologies.
+- Visual Studio Code.
 
 ### My proyects:
 
@@ -50,5 +51,11 @@ I have experience in sales and customer service since I worked in a shopping bus
 Concerteck was developed within the framework of the SoyHenry bootcamp. It is an E-Commerce that was developed with the aim of providing a simple and effective service with which buying a ticket is a simple experience for the user. In the development of it we work 8 people, who each contribute their unique skills to achieve the final objectives.
 ![captura del home concertek](https://user-images.githubusercontent.com/98349145/179823206-c5a2dcbb-a9a9-4fa9-aa12-10841190f05b.png)
 ![Detal](https://user-images.githubusercontent.com/98349145/179823234-a7275bba-bdec-495f-894b-d67aedacea92.png)
+
+### Recipe Application
+Application to search for various recipes, with filters by types of diets, their description and the ability to post new recipes.
+
+![image](https://user-images.githubusercontent.com/98349145/179825274-25110bf4-9d54-4667-ade9-1958a76f7a76.png)
+
 
 
