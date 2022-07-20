@@ -59,5 +59,9 @@ Application to search for various recipes, with filters by types of diets, their
 
 ![image](https://user-images.githubusercontent.com/98349145/179825274-25110bf4-9d54-4667-ade9-1958a76f7a76.png)
 
+contact me through:
+- email: lucasacua@gmail.com
+- Whats Up: +5493516990753
+- Linkedin: https://www.linkedin.com/in/lucas-acuna-ortiz-full-stack/
 
 
