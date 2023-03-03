@@ -21,31 +21,15 @@ Here are some ideas to get you started:
 
 
 ### Who am I ?
-I am a Young Argentine, with a taste for programming and looking to develop professionally in it, current graduate of Henrry's Bootcamp in Full-Stack Developer.
+I am a young developer from Córdoba Argentina. I have experience as a full stack developer working remotely in teams with the help of GitHub and Trello, creating e-commerce web applications, restfull APIs and CRUD, using agile SCRUM methodologies. I also have some knowledge in game development.
 
-I have aspirations to work outside my country, to be able to travel and see the world.
-I aim for tomorrow to dedicate myself fully to the programming and development of video games since I am passionate about that whole area.
+### The technologies that I use in the realization of my projects are:
+# Javascript + Node.Js + React + Redux + Express.Js + PostgreSQL + HTML + CSS
+# Angulat + Typescript + .NET + C# + SqlServer + HTML + CSS
+# Unity + C# + Blender
 
-I was a student of Information Systems Engineering until the 2nd year of the degree, where I was able to acquire knowledge about Python and systems analysis.
+I am a proactive person, always willing to learn new technologies, responsible and dynamic, I adapt quickly to work environments, I always seek to take the initiative in projects, I like teamwork and I am a good mediator. I am very enthusiastic about being able to develop professionally, and with my qualities I think they make me an ideal candidate.
 
-I have experience in sales and customer service since I worked in a shopping business
-
-### My knowledge:
-- Full-stack development. 
-- Back-end development.
-- Front end development.
-- Javascript. 
-- Node.js. 
-- SQL. 
-- React.js.
-- Redux.js.
-- HTML. 
-- Python(basic). 
-- System analysis.
-- Agile methodologies.
-- Visual Studio Code.
-
-### My proyects:
 
 ### Concerteck
 
@@ -61,7 +45,7 @@ Application to search for various recipes, with filters by types of diets, their
 
 contact me through:
 - email: lucasacua@gmail.com
-- Whats Up: +5493516990753
+- Whats Up: +5493543601250
 - Linkedin: https://www.linkedin.com/in/lucas-acuna-ortiz-full-stack/
 
 
