@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 
 
-### Who am I ?
+## Who am I ?
 I am a young developer from Córdoba Argentina. I have experience as a full stack developer working remotely in teams with the help of GitHub and Trello, creating e-commerce web applications, restfull APIs and CRUD, using agile SCRUM methodologies. I also have some knowledge in game development.
 
 ### The technologies that I use in the realization of my projects are:
-# Javascript + Node.Js + React + Redux + Express.Js + PostgreSQL + HTML + CSS
-# Angulat + Typescript + .NET + C# + SqlServer + HTML + CSS
-# Unity + C# + Blender
+#### Javascript + Node.Js + React + Redux + Express.Js + PostgreSQL + HTML + CSS
+#### Angulat + Typescript + .NET + C# + SqlServer + HTML + CSS
+#### Unity + C# + Blender
 
 I am a proactive person, always willing to learn new technologies, responsible and dynamic, I adapt quickly to work environments, I always seek to take the initiative in projects, I like teamwork and I am a good mediator. I am very enthusiastic about being able to develop professionally, and with my qualities I think they make me an ideal candidate.
 
