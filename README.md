@@ -47,5 +47,6 @@ contact me through:
 - email: lucasacua@gmail.com
 - Whats Up: +5493543601250
 - Linkedin: https://www.linkedin.com/in/lucas-acuna-ortiz-full-stack/
+- Portfolio: https://lukas-acuna-developer.my.canva.site/
 
 
