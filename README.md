@@ -45,7 +45,7 @@ Application to search for various recipes, with filters by types of diets, their
 
 contact me through:
 - email: lucasacua@gmail.com
-- Whats Up: +5493543601250
+- Whats Up: +5493543601250 / https://wa.link/7wks1d
 - Linkedin: https://www.linkedin.com/in/lucas-acuna-ortiz-full-stack/
 - Portfolio: https://lukas-acuna-developer.my.canva.site/
 
